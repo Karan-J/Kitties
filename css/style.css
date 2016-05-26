@@ -1,0 +1,35 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body{
+	/*font-family: 'Open Sans Condensed', sans-serif;*/
+	background-color: #E2DEDE;
+	font-weight: 300px;	
+}
+
+.line {
+	font-weight: 20px;
+	outline-width: 30px;
+	width: 30px;
+	background-color: #312E2E;
+}
+
+.lower-title{
+	/*color: #B98856;*/
+	
+}
+
+.main-title{
+	font-size: 60px;
+	/*font-weight: 700px;*/
+
+}
+
+.img-align {
+	padding-top: 20px;
+}
